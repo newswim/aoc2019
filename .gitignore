@@ -1,0 +1,6 @@
+.stack-work/
+aoc2019.cabal
+*~
+
+*.sw*
+**/.DS_Store
