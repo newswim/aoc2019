@@ -10,7 +10,7 @@ findAllFuel mass
  where s = findFuel mass
 
 part01 :: [Integer] -> [Integer]
-part01 input = map findFuel input
+part01 = map findFuel
 
 part02 :: [Integer] -> [Integer]
 part02 = map findAllFuel
